@@ -1,6 +1,6 @@
 # Hospital Patient Management System - SQL & Power BI Project
 
-![Dashboard Preview](img1.png)
+![Dashboard Preview](img2.jpg)
 
 ## 📋 **Project Overview**
 The **Hospital Patient Management System** project is designed to provide insights into hospital operations by analyzing patient, doctor, and treatment data using **SQL Server** and **Power BI**. This project involves creating a relational database, running complex SQL queries, and building an interactive dashboard to visualize key metrics such as patient admission trends, doctor performance, and revenue analysis.
