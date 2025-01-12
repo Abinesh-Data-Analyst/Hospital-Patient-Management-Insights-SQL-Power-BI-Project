@@ -1,5 +1,7 @@
 # Hospital Patient Management System - SQL & Power BI Project
 
+![Title](front.png)
+
 ![Dashboard Preview](dashboard.png)
 
 ## 📋 **Project Overview**
